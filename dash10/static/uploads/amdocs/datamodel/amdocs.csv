@@ -1,0 +1,8 @@
+Subject_Area,Entity_Logical_Name,Attribute_Logical_Name,Data_Type,KEY_IND
+amdocs,dashboard_sales,id,int(11),PRI
+amdocs,iris,id,int(10),PRI
+amdocs,dashboard_sales,AAPL_Open,double,
+amdocs,dashboard_sales,AAPL_High,double,
+amdocs,dashboard_sales,AAPL_Close,double,
+amdocs,iris,sepalLengthCm,"decimal(15,4)",
+amdocs,iris,sepalWidthCm,"decimal(15,4)",
